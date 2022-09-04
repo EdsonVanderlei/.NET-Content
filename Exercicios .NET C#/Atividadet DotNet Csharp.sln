@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Identidade 2", "Identidade 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Desafio Entities", "Desafio Entities\Desafio Entities.csproj", "{78C5D429-4F0F-4534-BC09-34CEEF3F0433}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{1AEBE9EE-FB47-4319-95D4-AC6DA25883DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polimorfismo", "Polimorfismo\Polimorfismo.csproj", "{1AEBE9EE-FB47-4319-95D4-AC6DA25883DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herença e Polimorfismo - Desafio", "Herença e Polimorfismo - Desafio\Herença e Polimorfismo - Desafio.csproj", "{2F6B6AED-B167-429D-8157-AC3DC412C742}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1AEBE9EE-FB47-4319-95D4-AC6DA25883DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AEBE9EE-FB47-4319-95D4-AC6DA25883DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AEBE9EE-FB47-4319-95D4-AC6DA25883DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F6B6AED-B167-429D-8157-AC3DC412C742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6B6AED-B167-429D-8157-AC3DC412C742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6B6AED-B167-429D-8157-AC3DC412C742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6B6AED-B167-429D-8157-AC3DC412C742}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

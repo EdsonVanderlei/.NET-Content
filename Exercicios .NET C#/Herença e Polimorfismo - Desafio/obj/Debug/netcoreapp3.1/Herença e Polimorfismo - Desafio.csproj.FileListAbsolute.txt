@@ -1,0 +1,14 @@
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\bin\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.exe
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\bin\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.deps.json
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\bin\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.runtimeconfig.json
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\bin\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.runtimeconfig.dev.json
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\bin\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.dll
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\bin\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.pdb
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\obj\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.csproj.AssemblyReference.cache
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\obj\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\obj\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.AssemblyInfoInputs.cache
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\obj\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.AssemblyInfo.cs
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\obj\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.csproj.CoreCompileInputs.cache
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\obj\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.dll
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\obj\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.pdb
+C:\Users\Edson\Desktop\Identidade\Identidade Udemy\Herença e Polimorfismo - Desafio\obj\Debug\netcoreapp3.1\Herença e Polimorfismo - Desafio.genruntimeconfig.cache
